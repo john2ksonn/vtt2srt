@@ -5,3 +5,14 @@ I just implemented it to start learning Go. So don't expect it to be anything
 special or complete.
 
 The test.vtt file is from <https://www.w3.org/TR/webvtt1/#introduction-caption>
+
+## Installation
+
+To download / update and compile the source code:
+
+`go get -u https://github.com/john2ksonn/vtt2srt_go`
+
+To just download the source code:
+
+`go get -d https://github.com/john2ksonn/vtt2srt_go`
+
