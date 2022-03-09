@@ -16,3 +16,7 @@ To just download the source code:
 
 `go get -d github.com/john2ksonn/vtt2srt`
 
+## Usage
+
+`vtt2srt < test.vtt`
+
