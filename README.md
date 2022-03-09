@@ -10,9 +10,9 @@ The test.vtt file is from <https://www.w3.org/TR/webvtt1/#introduction-caption>
 
 To download / update and compile the source code:
 
-`go get -u https://github.com/john2ksonn/vtt2srt`
+`go get -u github.com/john2ksonn/vtt2srt`
 
 To just download the source code:
 
-`go get -d https://github.com/john2ksonn/vtt2srt`
+`go get -d github.com/john2ksonn/vtt2srt`
 
